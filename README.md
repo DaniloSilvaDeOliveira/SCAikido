@@ -2,7 +2,7 @@
 <h1> SCAikido - Software Composition Analysis Tool </h1>
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License](https://img.shields.io/github/license/DaniloSilvaDeOliveira/scaikido)
 ![Shell](https://img.shields.io/badge/shell-bash-yellow.svg)
 
 **Automated vulnerability scanner using Syft SBOM and Aikido Intel database**
@@ -29,8 +29,6 @@
 > This doesn't mean one is better than the other - they complement each other:
 > - npm audit may catch older, well-documented CVEs
 > - SCAikido may catch newer vulnerabilities without CVE numbers yet
->
-> ### ✅ Best Practice:
 >
 > ### Known Limitations:
 > 
