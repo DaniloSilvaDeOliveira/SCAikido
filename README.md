@@ -2,7 +2,7 @@
 <h1> SCAikido - Software Composition Analysis Tool </h1>
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/github/license/DaniloSilvaDeOliveira/scaikido)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Shell](https://img.shields.io/badge/shell-bash-yellow.svg)
 
 **Automated vulnerability scanner using Syft SBOM and Aikido Intel database**
